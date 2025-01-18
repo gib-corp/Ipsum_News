@@ -17,13 +17,13 @@ Translate Figma design specifications into CSS styles.
 
 ### CSS Grid:
 
-Define the grid layout using **`grid-template-rows`** and **`grid-template-columns`**.
-Use **`gap`** to manage spacing between elements.
+Define the grid layout using **`grid-template-rows`** and **`grid-template-columns`**.  
+Use **`gap`** to manage spacing between elements.  
 Assign grid items to specific positions with **`grid-column`** and **`grid-row`**.
 
 ### Figma to CSS:
 
-Use Figma's **dimensions**, **colors**, and **font sizes** directly in your CSS.
+Use Figma's **dimensions**, **colors**, and **font sizes** directly in your CSS.  
 Translate Figma's layer structure into semantic HTML.
 
 ## 🔍 Design Preview
