@@ -5,8 +5,7 @@ This project challenges you to reproduce a design from **Figma** using **CSS Gri
 ## 🎯 Project Objectives
 
 Use **CSS Grid** to replicate a detailed layout from Figma.  
-Translate Figma design specifications into CSS styles.  
-Apply responsive design techniques to make the layout adaptable to different screen sizes.
+Translate Figma design specifications into CSS styles.
 
 ## 📂 Included Files
 
@@ -18,14 +17,14 @@ Apply responsive design techniques to make the layout adaptable to different scr
 
 ### CSS Grid:
 
-- Define the grid layout using **`grid-template-rows`** and **`grid-template-columns`**.
-- Use **`gap`** to manage spacing between elements.
-- Assign grid items to specific positions with **`grid-column`** and **`grid-row`**.
+Define the grid layout using **`grid-template-rows`** and **`grid-template-columns`**.
+Use **`gap`** to manage spacing between elements.
+Assign grid items to specific positions with **`grid-column`** and **`grid-row`**.
 
 ### Figma to CSS:
 
-- Use Figma's **dimensions**, **colors**, and **font sizes** directly in your CSS.
-- Translate Figma's layer structure into semantic HTML.
+Use Figma's **dimensions**, **colors**, and **font sizes** directly in your CSS.
+Translate Figma's layer structure into semantic HTML.
 
 ## 🔍 Design Preview
 
